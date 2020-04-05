@@ -1,6 +1,6 @@
 import jankenMethod
 
-# じゃんけんゲームをする
+# じゃんけんゲームfをする
 janken = jankenMethod.Janken()
 # 出す手を決定する
 jankenPlayer = janken.selectJankenPlayer()
